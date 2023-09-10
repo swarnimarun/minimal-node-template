@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "christian-kohler.path-intellisense",
+    "mike-co.import-sorter",
+    "Orta.vscode-jest"
+  ]
+}
